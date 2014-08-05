@@ -1,0 +1,33 @@
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Release\Pendrive Healer.vbproj.GenerateResource.Cache
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\bin\Release\PendriveHealer.exe.config
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\bin\Release\PendriveHealer.exe.manifest
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\bin\Release\PendriveHealer.application
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\bin\Release\PendriveHealer.exe
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\bin\Release\PendriveHealer.pdb
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\bin\Release\PendriveHealer.xml
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Release\PendriveHealer.Form1.resources
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Release\PendriveHealer.Resources.resources
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Release\PendriveHealer.TrustInfo.xml
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Release\PendriveHealer.exe.manifest
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Release\PendriveHealer.application
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Release\PendriveHealer.exe
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Release\PendriveHealer.xml
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Release\PendriveHealer.pdb
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\bin\Release\PendriveHealer.exe.config
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\obj\Release\PendriveHealer.exe
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\obj\Release\PendriveHealer.xml
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\obj\Release\PendriveHealer.pdb
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\bin\Release\PendriveHealer.exe.manifest
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\bin\Release\PendriveHealer.application
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\bin\Release\PendriveHealer.exe
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\bin\Release\PendriveHealer.pdb
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\bin\Release\PendriveHealer.xml
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\obj\Release\PendriveHealer.Form1.resources
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\obj\Release\PendriveHealer.Resources.resources
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\obj\Release\Pendrive Healer.vbproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\obj\Release\PendriveHealer.TrustInfo.xml
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\obj\Release\PendriveHealer.exe.manifest
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\obj\Release\PendriveHealer.application
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\obj\Release\Pendrive Healer.vbprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Documentos\Visual Studio 2013\Projects\Pendrive Healer\Pendrive Healer\obj\Release\Pendrive Healer.vbproj.ResolveComReference.cache

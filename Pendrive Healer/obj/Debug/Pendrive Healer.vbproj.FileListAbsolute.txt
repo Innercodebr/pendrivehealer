@@ -1,0 +1,15 @@
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Debug\Pendrive Healer.vbproj.GenerateResource.Cache
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\bin\Debug\PendriveHealer.exe.config
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\bin\Debug\PendriveHealer.exe.manifest
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\bin\Debug\PendriveHealer.application
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\bin\Debug\PendriveHealer.exe
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\bin\Debug\PendriveHealer.pdb
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\bin\Debug\PendriveHealer.xml
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Debug\PendriveHealer.Form1.resources
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Debug\PendriveHealer.Resources.resources
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Debug\PendriveHealer.TrustInfo.xml
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Debug\PendriveHealer.exe.manifest
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Debug\PendriveHealer.application
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Debug\PendriveHealer.exe
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Debug\PendriveHealer.xml
+d:\documentos\visual studio 2012\Projects\Pendrive Healer\Pendrive Healer\obj\Debug\PendriveHealer.pdb
